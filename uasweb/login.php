@@ -48,8 +48,8 @@
     <div class="container">
     <main class="form-signin w-100 m-auto">
   <form action="" method="POST"  autocomplete="off">
-    <img class="mb-4" src="img/bootstrap-logo.svg" alt="" width="72" height="57">
-    <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+    <img class="mb-4" src="img/logoo.png" alt="" width="90" height="90">
+    <h1 class="h3 mb-3 fw-normal">Login</h1>
 
     <div class="form-floating">
       <input type="text"  name="username" class="form-control" id="floatingInput" placeholder="name@example.com"  required>
@@ -62,10 +62,10 @@
 
     <div class="checkbox mb-3">
       <label>
-        <input type="checkbox" value="remember-me"> Remember me
+        <input type="checkbox" value="remember-me"> Ingat Saya
       </label>
     </div>
-    <button class="w-100 btn btn-lg btn-primary" type="submit"   name="login" >Sign in</button>
+    <button class="w-100 btn btn-lg btn-primary" type="submit"   name="login" >Login</button>
     </form>
     <p class="regis">Belum punya akun? <i class="fa-solid fa-arrow-right"></i>
     <a href="register.php">Daftar?</a>

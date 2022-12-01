@@ -66,7 +66,7 @@ if( isset($_POST["car"])){
     </ul> 
   </nav>
   <div class ="header2">
-     <div class="header-logo2">  Cari sesuai dengan keinginan anda </div>
+     <div class="header-logo2"> Cari sesuai dengan keinginan anda </div>
        
       <form METHOD="POST" >
         <input class="srch" type="text" name="keyword"  placeholder="Masukan Keyword . . . .">
@@ -79,7 +79,7 @@ if( isset($_POST["car"])){
    
 
     <?php 
-      $halperpage = 5;
+      $halperpage = 5; //jumlah per item per halaman
       $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
       $sebelum = $page-1;
       $setelah = $page+1;
