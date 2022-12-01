@@ -50,7 +50,6 @@ if (isset($_POST["kirim"])) {
     <link rel="stylesheet" type="text/css" href="style2.css">
     <script src="https://kit.fontawesome.com/6acc3fbd7c.js" crossorigin="anonymous"></script>
     <title>Update Akun</title>
-    <link rel="icon" href="https://www.freepnglogos.com/uploads/honda-logo-png/honda-motorcycles-logo-wing-10.png"></head>
 
 
 </head>

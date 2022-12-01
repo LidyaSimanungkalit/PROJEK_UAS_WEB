@@ -27,7 +27,6 @@
     <script src="https://kit.fontawesome.com/6acc3fbd7c.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <title>Dashboard</title>
-    <link rel="icon" href="https://www.freepnglogos.com/uploads/honda-logo-png/honda-motorcycles-logo-wing-10.png">
 </head>
 <html>
 <body>

@@ -16,8 +16,7 @@ if(empty($_SESSION['keranjang']) OR !isset($_SESSION['keranjang'])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/6acc3fbd7c.js" crossorigin="anonymous"></script>
     <title>Keranjang Pembelian</title>
-    <link rel="icon" href="https://www.freepnglogos.com/uploads/honda-logo-png/honda-motorcycles-logo-wing-10.png">
-
+    
 </head>
 <body>
 <p class="info">Data Produk</p>
